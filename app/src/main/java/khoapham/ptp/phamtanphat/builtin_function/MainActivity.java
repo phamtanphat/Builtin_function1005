@@ -20,15 +20,27 @@ public class MainActivity extends AppCompatActivity {
 //        Log.d("BBB","So random " + number1);
 //        Log.d("BBB", "So duoc format " + number1format );
         //Tim so lon hon
-
-        int[] numbers = {1,2,3,4,11,6,7,8,9,10};
-        int solonnhat = 0;
-
-        for (int index = 0 ; index < numbers.length ; index++){
-            solonnhat = Math.max(solonnhat, numbers[index]);
-            Log.d("BB",solonnhat + "");
-        }
+//
+//        int[] numbers = {1,2,3,4,11,6,7,8,9,10};
+//        int solonnhat = 0;
+//
+//        for (int index = 0 ; index < numbers.length ; index++){
+//            solonnhat = Math.max(solonnhat, numbers[index]);
+//            Log.d("BB",solonnhat + "");
+//        }
+        //So chan , so le , so chia 1 du  1 , so lien truoc , so lien ,
+        //So chinh phuong ,
 //        int ketuqa = Math.max(a ,b);
 //        Log.d("BBB",ketuqa + "");
+        //Can bac 2
+//        int a = 289;
+//
+//        if (Math.sqrt(a) * Math.sqrt(a) == a){
+//            Log.d("BBB", "Day la so chinh phuong");
+//        }else{
+//            Log.d("BBB","khong phai la so chinh phuong" + "");
+//        }
+//        Math.PI * Math.pow(2,2);
+
     }
 }
