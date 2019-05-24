@@ -4,6 +4,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -41,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
 //            Log.d("BBB","khong phai la so chinh phuong" + "");
 //        }
 //        Math.PI * Math.pow(2,2);
+
 
     }
 }
